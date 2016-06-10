@@ -8,10 +8,14 @@
 		{
 			"name": "Jan Hartigan",
 			"email": "jan@frozennode.com"
+		},
+		{
+			"name": "Deji Akala",
+			"email": "dejiakala@gmail.com"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/FrozenNode/Laravel-Administrator/issues"
+		"issues": "https://github.com/dakala/Laravel-Administrator/issues"
 	},
 	"require": {
 		"php": ">=5.4.0",
